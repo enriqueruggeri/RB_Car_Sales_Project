@@ -11,6 +11,7 @@ Para ello vamos a trabajar con varios modelos con ajuste de hiperparámetros:
 Utilizaremos la métrica RECM para evaluar el desempeño de cada uno los modelos.
 
 # Tecnologías Utilizadas
+
 Python: Lenguaje de programación principal.
 Pandas: Manipulación y análisis de datos.
 NumPy: Cálculos numéricos.
@@ -18,8 +19,12 @@ Scikit-Learn: Implementación de modelos de Machine Learning.
 Matplotlib: Visualización de datos.
 
 # Habilidades Relacionadas a Ciencia de Datos Desarrolladas
+
 Análisis Exploratorio de Datos (EDA): Exploración y comprensión de la distribución de precios y características de los coches.
+
 Preprocesamiento de Datos: Limpieza, codificación, segmentación y escalamiento de datos.
+
 Modelado Predictivo: Entrenamiento y evaluación de modelos de regresión lineal.
+
 Evaluación de Modelos: Medición de la precisión del modelo mediante métricas como RECM.
 
