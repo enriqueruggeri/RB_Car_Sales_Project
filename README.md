@@ -1,4 +1,5 @@
-## RB_Car_Sales_Project
+## RB_Car_Sales_Project 
+## Predicting Used Car Prices with Machine Learning Models
 
 Para desarrollar este proyecto, vamos a trabajar con los datos de la empresa Rusty Bargain, que es un servicio de venta de coches de segunda mano que está desarrollando una app para atraer a nuevos clientes. El objetivo es desarrollar un modelo que determine el valor de mercado del automóvil.
 
